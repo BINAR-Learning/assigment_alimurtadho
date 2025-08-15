@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+
+# To-Do List API specific
+*.db
+.env
+test.db
+.pytest_cache/
+htmlcov/
+.coverage
+logs/
+*.log
